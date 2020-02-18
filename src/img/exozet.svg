@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 154 33" width="154" height="33">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-512 -17L768 -17L768 2243L-512 2243Z" />
+		</clipPath>
+		<image width="154" height="33" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJoAAAAhCAYAAAAh8rKhAAAFiklEQVR4nO1cy23cQAx1AwF8zskl+JACFhjOB3swdM/FJewhd7uCbAlbwpawJWwJW4JKcA6SIlkaPnI+shNDBAT4MrMc8vEzJMd3dxttlEBPT0/frN3/MMb9JHK/iNxva5++fzZfG30hMsafjHFv84/IHz6bt42+EBnjbxvQNlqdNqBt9CG0GtCaprknCjtrwzORPxC5FyL3Ym14tnb/mL6XPxrjWiJ3dc41RcxFqOPTXbvf8MecPZqmuXfONdPzdn+HXe5+IYSHki/3d2vpbiAAtKO1+8fY1zTNPbshUdgNoIhtPP6AuxK5Fw2T/X7v1tcEG1HYLfn1J83aQSk9SNnz9nuerQ3Pmn1DCA+SDJVfqwWHtftHje6M8bdUY+SAJvHOCFzD5HIzyeIZJluIeCV1fEdBsjzkjDrFaAC2sOKLxLu1+8cKIFMZTYnutAafCbS3BaPG+HOJMJCl8wLwZ80hEcW8pQZoPRAKPI6/IbBVBhorp153p7V0N1AVoAFlJTIcd/Fo/5IQam145vZFoaFXTpbg3v+Gu/K8fQzQaukuMyrpgeacaxQLlJbvbxmMtjlJL86BsLdRegDVmbk8tQOzaxM+JNdo6OxzU805NGeBEQBcBi5E/sh8442UyF94IfrL/PZA5A+Icc4N98Bgfwcdkjk4G+qRdQqepiUKr1PP3CkTAjPLUNLOEwczXuMvRGE31V0XAXjPhNMfFmhyeQML3Z84r4C8CQonyM2n1GN6sHP7wNsUkXvJETRReK3Be+p5uLCJDdddOd0JaQPr1YqABg4o3ghRfoTWolue5hqPkngk4IF4IcsXk5K1OedBekC6k+SIdMd55yKg8a5XrkH1OQhjUXzoQutQjjesBaFeFDD6bc2lBChILKVknAfyxIdzHeh5Y40DpxRo0cXaoiTnnaQfRxcQFPpQ2NMcGKUKmjwLATWnJiikEkIKEAeothDLr2fzwXWA1jTNvfSlMjv77aRkPl79T7NicEtTeSQEtNTWDja2/BSAyB80ugMeMRrNCoFWpUWSZVVSUjoVNKj+v5mEWx+vXByyZzIrBtqk9BE9j2avGnXAFKMtBdoKjKa4b1QHGg9cq+D7rwBNKEuobrAb0BKAhovF44GRYv43oAmlDNUgQMfHBjR16EThcB46tWEW0WcDDZcycDdjycdqQPu4HG2cXcr7NDkTqrbHvBQKs9rOAvCg6vJELtAkw0qdecPzYfV1txLQ8gb9tJTbDC/N1UqBhqrxknHhUoZuru/9fnHQaktTqVTYGcirg5VQSTMc8WwUt09UntB4YeRV8cgQNCxxti3OS35pKYdKW1BRK8tpcicwzCX2qvBR2pznvbgsMK7fifq7wqStenp2yUveHF4uFTbVeUtbY64fN8P1lig01eHBUQsLrcODBPFwX9Jikgjd2NfQXRHQcN/RtTXjfWkzfE5IgchL5IQxaeSb88RCyyzrAc2Uckd+cqg4zZKGALu5pvEVTfeqZnhZ83fA7dI/Vom+cCpthseopDkvlQa6M4XXznP6E2cgg3xiv4FbZuPZNR8HSgTkwYC7s8x15w+D7ozx50F/eEyK05+/qToztcaakaWWNsM5Egq+bPFTOVWsPG/cm5XO8WvA3Ms2+XFNjszkkXF/m38LvmvOt8eAtsYc12Rv9nIhrCsGAsorPwpoFZ/1CUBTjY0vvsVGHdg4QJQCLSqIas/tuOd80tqChx2t4tJR5dGIBLS7u3q6k1pgOd6T3azUEmNWHttzhQfESUIbSJqjjym9cEiyOtBGOeCcLUd3UxK6G2lAG5n2hy4BjCqhT1LdtU8mj0T+gJ7BT8AmeoMc6hU7JM/JRdD+XyEcI4Jsh6Q69dLSXybOpV/qDXLyu1V0F5MVs387kddl0PMf3Dns/aqaLY0AAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Artboard" clip-path="url(#cp1)">
+		<use id="Group 8" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+	</g>
+</svg>
