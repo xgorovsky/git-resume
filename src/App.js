@@ -1,13 +1,13 @@
 import React from "react";
 import "./App.scss";
-import ExoHeader from "./components/ExoHeader";
-import ExoMain from "./components/ExoMain";
+import Header from "./components/Header";
+import Main from "./components/Main";
 
 function App() {
   return (
     <div className="App">
-      <ExoHeader />
-      <ExoMain title="My Github Resumé" />
+      <Header title="My Github Resumé" />
+      <Main />
     </div>
   );
 }

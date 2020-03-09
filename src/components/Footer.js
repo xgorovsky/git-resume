@@ -3,7 +3,7 @@ import React from "react";
 function Footer() {
   return (
     <footer>
-      <span>&copy; exozet 2020</span>
+      <span>@Igor Biedrawa 2020</span>
     </footer>
   );
 }
